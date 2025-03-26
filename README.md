@@ -10,5 +10,5 @@ Sou estudante de **Engenharia de Software na Universidade de Brasília (UnB)**. 
 
 ## 📬 Contato
 - **Email:** carlos.edu.rodrigues831@gmail.com
-- **LinkedIn:** [linkedin](www.linkedin.com/in/carlos-eduardo-rodrigues-645686358)
+- **LinkedIn:** [linkedin](https://www.linkedin.com/in/carlos-eduardo-rodrigues-645686358)
 
