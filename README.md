@@ -35,7 +35,7 @@
 <br><br>
 **🛠️ Projetos**
 <div style="display: in-line">
-<a href="https://github.com/carlos-kadu/calcmedia" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=calcmedia&theme=tokyonight&hide_border=true" width="400px" height="150px"></a>  
+<a href="https://github.com/carlos-kadu/calcmedia" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=calcmedia&hide_border=true&theme=tokyonight" width="400px" height="150px"></a>  
 <a href="https://github.com/carlos-kadu/score_watch" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=score_watch&theme=tokyonight&hide_border=true" width="400px" height="150px"></a>  
 <a href="https://github.com/unb-mds/2023-2-Squad04" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=unb-mds&repo=2023-2-Squad04&theme=tokyonight&hide_border=true" width="400px" height="150px"></a>  
 <a href="https://github.com/carlos-kadu/projeto_ATM" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=projeto_ATM&theme=tokyonight&hide_border=true" width="400px" height="150px"></a>  
