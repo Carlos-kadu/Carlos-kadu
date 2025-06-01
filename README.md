@@ -32,4 +32,13 @@
   <a href="https://www.linkedin.com/in/carlos-eduardo-rodrigues-645686358" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
-
+<br><br>
+**🛠️ Projetos**
+<div style="display: in-line">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=calcmedia&theme=tokyonight&hide_border=true" width="400px" height="150px">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=score_watch&theme=tokyonight&hide_border=true" width="400px" height="150px">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=unb-mds&repo=2023-2-Squad04&theme=tokyonight&hide_border=true" width="400px" height="150px">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=projeto_ATM&theme=tokyonight&hide_border=true" width="400px" height="150px">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=SBD2&theme=tokyonight&hide_border=true" width="400px" height="150px">  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos-kadu&repo=TPPE&theme=tokyonight&hide_border=true" width="400px" height="150px">  
+</div>
